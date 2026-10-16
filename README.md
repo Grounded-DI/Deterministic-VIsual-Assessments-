@@ -74,3 +74,11 @@ This is a public visual-analysis and demonstration archive. It is not a DNA test
 ## Contact
 
 Use the [Grounded DI GitHub organization](https://github.com/Grounded-DI) for collaboration, evaluation, licensing, or integration inquiries.
+
+## Central benchmark collection
+
+[Browse Grounded DI's benchmark and evaluation index](https://github.com/Grounded-DI/Benchmarks-Cross-Domain/blob/main/BENCHMARK_INDEX.md).
+
+- [Preserved collection: visual-comparisons](https://github.com/Grounded-DI/Benchmarks-Cross-Domain/tree/main/benchmarks/visual-comparisons)
+
+The central entry preserves these as qualitative comparisons and diagnostic demonstrations, without assigning a standardized benchmark score. This repository remains the canonical source for its own history and later corrections; the central collection is a dated public snapshot.
