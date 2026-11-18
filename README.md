@@ -1,12 +1,12 @@
 # Deterministic Visual Assessments — Trait Audit Artifacts
 
-A public Grounded DI LLC artifact set illustrating structure-first visual trait extraction, exclusion logic, and low-stakes comparison records.
+Grounded DI LLC's visual assessment archive applies structural trait weighting and alternative-class checks to a Mini Goldendoodle phenotype assessment, a Safety-Kleen parts-washer riddle, and a handbag-shopping comparison.
 
 ## Overview
 
 Created April 27, 2026, this repository contains six files: a Mini Goldendoodle phenotype assessment with visual exhibits and a four-model comparison, a Safety-Kleen riddle diagnostic, a handbag-shopping comparison artifact, and their supporting images.
 
-The collection preserves how the source documents separate structural evidence from presentation, test alternatives, and record a final reconstruction. It is a visual-analysis archive, not a breed, product, medical, or model-certification system.
+The source documents show how the system weighs visible features, tests alternatives, and records a final reconstruction.
 
 ## What the Repository Contains
 
@@ -21,10 +21,9 @@ The collection preserves how the source documents separate structural evidence f
 ## What the Record Demonstrates
 
 - The Goldendoodle artifact gives hard structure higher weight than groomed expression, then tests a spaniel alternative and isolates a secondary retriever signal.
-- The visual phenotype record preserves an exact point estimate and tolerance band while stating that the result is a consistency assessment, not ancestry proof.
 - The Safety-Kleen diagnostic shows an object-class-first path: basin/tank structure and solvent-washing function outweigh weaker packaging interpretations such as cans, tubes, or household products.
-- The riddle artifact compares Regular GPT, Gemini, Grok, and Claude outputs as a contained diagnostic record; the comparison is not independent validation of any model.
-- The handbag artifact is explicitly a low-stakes benchmark exploration. Its runtime archetypes are qualitative observations, not standardized benchmark scores.
+- The riddle artifact compares recorded Regular GPT, Gemini, Grok, and Claude outputs.
+- The handbag artifact records qualitative differences in response styles to one shopping prompt.
 
 ## Assessment Flow
 
@@ -38,7 +37,7 @@ image and clue set
         → final reconstruction and comparison record
 ```
 
-The phrase “deterministic” in these files describes the documented structure-first procedure and recorded decision path. It does not imply that the underlying visual models or the photographs are independently deterministic.
+In these records, “deterministic” identifies the documented procedure and decision path.
 
 ## Technical Significance
 
@@ -67,10 +66,6 @@ Evaluation, licensing, integration, and research inquiries can be opened through
 
 The artifacts identify Grounded DI LLC and preserve dated PDFs, visual exhibits, source assumptions, and comparison records. The repository contains no patent filing receipt or open-source license. Copyright and other rights remain with Grounded DI LLC and applicable authors except where expressly stated otherwise.
 
-## Repository Scope and Status
-
-This is a public visual-analysis and demonstration archive. It is not a DNA test, pedigree certification, manufacturer certification, veterinary diagnosis, standardized benchmark, or deployed computer-vision product. External comparison inside an artifact is evidence of the recorded comparison, not outside validation of the underlying conclusions.
-
 ## Contact
 
 Use the [Grounded DI GitHub organization](https://github.com/Grounded-DI) for collaboration, evaluation, licensing, or integration inquiries.
@@ -81,4 +76,4 @@ Use the [Grounded DI GitHub organization](https://github.com/Grounded-DI) for co
 
 - [Preserved collection: visual-comparisons](https://github.com/Grounded-DI/Benchmarks-Cross-Domain/tree/main/benchmarks/visual-comparisons)
 
-The central entry preserves these as qualitative comparisons and diagnostic demonstrations, without assigning a standardized benchmark score. This repository remains the canonical source for its own history and later corrections; the central collection is a dated public snapshot.
+The central collection indexes these qualitative comparisons and diagnostic demonstrations. This repository preserves the source artifacts and their revision history.
